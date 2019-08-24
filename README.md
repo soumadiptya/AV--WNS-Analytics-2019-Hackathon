@@ -12,7 +12,7 @@ Now, to improve sales of products, Zbay has hired Adiza, an Adtech company which
  
 
 If a user comes to Zbay’s website and searches for a product, and then visits these partner websites or apps, his/her previously viewed items or their similar items are shown on as an ad. If the user clicks this ad, he/she will be redirected to the Zbay’s website and might buy the product.
-<img src='info-ankit.jpg'>
+<img src='./Codes/info-ankit.jpg'>
 
 In this problem, the task was to predict click probability i.e. probability of user clicking the ad which is shown to them on the partner websites for the next 7 days on the basis of historical view log data, ad impression data and user data.
 
